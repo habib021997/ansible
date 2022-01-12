@@ -1,0 +1,6 @@
+---
+- name: test
+  debug:
+    var: habib
+
+# tasks file for roles/testing
